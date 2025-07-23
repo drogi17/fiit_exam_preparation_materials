@@ -1,0 +1,7 @@
+*
+!*/
+!*.zip
+!README.md
+!pack.sh
+!unpack.sh
+!.gitignore
